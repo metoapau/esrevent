@@ -5,7 +5,7 @@
 
 const DEFAULT_SITE_DATA = {
   hero: {
-    badge: "TÜRKİYE'NİN EN İDDİALI PARTİ VE ETKİNLİK DENEYİMİ",
+    badge: "WE DON'T DO ORDİNARY",
     titleLine1: "Sıradanlığı Unutun.",
     titleHighlight: "Gecenin Ritmini",
     titleLine2: "ve Anları Tasarlıyoruz.",
@@ -97,7 +97,7 @@ const DEFAULT_SITE_DATA = {
     email: "info@esrevent.com",
     whatsapp: "905321234567",
     instagram: "esrevent",
-    address: "Levent, İstanbul • Yalıkavak, Bodrum • Alaçatı, Çeşme"
+    address: "Pamukkale, Denizli"
   }
 };
 
