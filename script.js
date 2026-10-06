@@ -175,7 +175,7 @@ function renderDynamicContent() {
     const titleLine2El = document.getElementById('dynamic-hero-title-l2');
     const subtitleEl = document.getElementById('dynamic-hero-subtitle');
 
-    if (badgeEl) badgeEl.innerText = data.hero.badge || "TÜRKİYE'NİN EN İDDİALI PARTİ VE ETKİNLİK DENEYİMİ";
+    if (badgeEl) badgeEl.innerText = data.hero.badge || "WE DON'T DO ORDİNARY";
     if (titleLine1El) titleLine1El.innerText = data.hero.titleLine1 || "Sıradanlığı Unutun.";
     if (titleHighlightEl) titleHighlightEl.innerText = data.hero.titleHighlight || "Gecenin Ritmini";
     if (titleLine2El) titleLine2El.innerText = data.hero.titleLine2 || "ve Anları Tasarlıyoruz.";
